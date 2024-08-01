@@ -4,7 +4,7 @@
 
 # SQL 50 Challenge Solutions
 ---
-elcome to the SQL 50 Challenge Solutions repository! This repository contains solutions to the [SQL 50 Challenge](https://leetcode.com/study-plan/sql/), a collection of 50 SQL problems from LeetCode designed to test and enhance your SQL skills.
+welcome to the SQL 50 Challenge Solutions repository! This repository contains solutions to the [SQL 50 Challenge](https://leetcode.com/study-plan/sql/), a collection of 50 SQL problems from LeetCode designed to test and enhance your SQL skills.
 
 ## Repository Structure
 
